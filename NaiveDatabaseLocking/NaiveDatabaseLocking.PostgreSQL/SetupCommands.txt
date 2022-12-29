@@ -1,0 +1,9 @@
+CREATE TABLE Locks 
+(
+	Id uuid NOT NULL,
+	Key text NOT NULL,
+	ExpirationTimeUTC timestamp,
+	PRIMARY KEY (Id)
+)
+
+CREATE INDEX Locks_Key ON Locks (Key)

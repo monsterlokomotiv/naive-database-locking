@@ -1,0 +1,22 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/aoc2022/.vs/aoc2022/v17
+/aoc2022/.vs/aoc2022
+/.vs/VSWorkspaceState.json
+/.vs/slnx.sqlite
+/.vs/aoc2022/v17/.wsuo
+/aoc2022/aoc2022/bin/Debug/net7.0
+/aoc2022/aoc2022/obj
+/aoc2022/.vs/ProjectEvaluation
+/NaiveDatabaseLocking/NaiveDatabaseLocking.Extensions/obj
+/NaiveDatabaseLocking/.vs
+/.vs/naive-database-locking
+/NaiveDatabaseLocking/NaiveDatabaseLocking.MSSQL/obj
+/NaiveDatabaseLocking/NaiveDatabaseLocking.PostgreSQL/obj
+/NaiveDatabaseLocking/NaiveDatabaseLocking.PostgreSQL/bin/Debug/net7.0
+/NaiveDatabaseLocking/NaiveDatabaseLocking.MSSQL/bin/Debug/net7.0
+/NaiveDatabaseLocking/NaiveDatabaseLocking.Extensions/bin/Debug/net7.0
+/NaiveDatabaseLocking/NaiveDatabaseLocking/bin/Debug/net7.0
+/NaiveDatabaseLocking/NaiveDatabaseLocking/obj
